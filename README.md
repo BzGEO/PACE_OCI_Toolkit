@@ -62,6 +62,7 @@ Videos 🎥 featuring the PACE OCI Toolkit are available in the following record
 * ***6 August 2025***: The [pre-AmeriGEO Week 2025 webinar](https://www.linkedin.com/posts/amerigeo_se-acerca-la-semana-amerigeo-2025-en-activity-7355603935019028481-75oo) on PACE and GEE: https://youtu.be/nOXNXBQR3cw?t=8142.
 * ***19 August 2025***: A general PACE OCI Toolkit overview: https://youtu.be/8Ln6CMkyv00.
 * ***12 March 2026***: A demo of the PACE OCI Toolkit was presented in the 2nd day of the [2026 NASA PACE Applications workshop](https://pace.oceansciences.org/event_archive/applications_workshop_2026.htm), in the 5th session on *Tutorials and Demonstrations: Working with PACE data across platforms*: https://youtu.be/9XJBLpifaQg?t=1720.
+*  ***7 May 2026***: An overview of the PACE OCI Toolkit was presented during the PACE special session at the [ForestSat 2026 conference](https://carlos-alberto-silva.github.io/silvalab/ForestSAT2026/): https://youtu.be/kHP7JENfZY0.
 
 <!--
 
