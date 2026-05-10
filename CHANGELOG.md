@@ -3,6 +3,9 @@
 
 **Note:** The status of PACE OCI LandVI [*and now the Chlorophyll-a*] updates can be tracked using the following [calendar](https://bit.ly/pace_oci_8d_cal).
 
+## Updates: 10.05.2026
+1. The Spring 2026 quarterly PACE virtual meeting is upcoming on 14.05.2026: https://pace.oceansciences.org/events_more.htm?id=88.
+
 ## Updates: 29.04.2026
 1. Related to hyperspectral data in general:
    * As indicated in the 14.04.2026 update below, NASA is proposing a new hyperspectral mission called **EAGLE-VSWIR**, as a replacement for the canceled **SBG-VSWIR** mission. The mission team at NASA JPL has developed the following [form](https://forms.gle/PNHjP5jwATg6TSaHA) for interested users to sign up to receive additional information about the mission, as well as register for a Slack workspace that has been created.
