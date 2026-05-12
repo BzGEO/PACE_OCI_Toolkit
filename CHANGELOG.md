@@ -3,6 +3,9 @@
 
 **Note:** The status of PACE OCI LandVI [*and now the Chlorophyll-a*] updates can be tracked using the following [calendar](https://bit.ly/pace_oci_8d_cal).
 
+## Updates: 12.05.2026
+1. The quarterly PACE Land data Users Group (PLUG) meeting will be occurring on 21.05.2026.
+
 ## Updates: 10.05.2026
 1. The Spring 2026 quarterly PACE virtual meeting is upcoming on 14.05.2026: https://pace.oceansciences.org/events_more.htm?id=88.
 
