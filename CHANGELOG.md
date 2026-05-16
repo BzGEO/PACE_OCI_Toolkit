@@ -7,6 +7,12 @@
 1. The following is a new effort seeking to leverage PACE for fisheries management: https://fish-pace.github.io.
    * *"The Fish-PACE User Group serves as a forum for connecting, supporting, and growing the fisheries and ocean ecosystem user community around NASA’s PACE mission and new ocean color products, with the goal to advance applications for fisheries, marine ecosystems, and coastal decision-making. We support a Slack channel, events, trainings (workshops and hackweeks) and a community JupyterHub."*
 
+## Updates: 14.05.2026
+1. At the Spring 2026 quarterly PACE virtual meeting, the PACE Mission Applications Lead, Dr. Morgaine McKibben gave a shout-out to the PACE OCI Toolkit, as one of the options for analyzing + visualizing PACE data.
+
+<img width="1421" height="801" alt="pace_oci_tk" src="https://github.com/user-attachments/assets/409fd090-7eb6-4d67-9dce-e6709ffc07a6" />
+
+
 ## Updates: 12.05.2026
 1. The quarterly PACE Land data Users Group (PLUG) meeting will be occurring on 21.05.2026: https://pace.oceansciences.org/events_more.htm?id=89.
 
