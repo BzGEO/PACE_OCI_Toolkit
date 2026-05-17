@@ -91,9 +91,9 @@ This work is being supported in the framework of the recently established NASA E
 
 If this toolkit is used in publications, presentations, or other venues, please cite 📝 the following:
 
-Cherrington, E. (2025). PACE OCI data Toolkit (Version 1.0.0.1) [Computer software]. https://doi.org/10.5281/zenodo.15873995
+Cherrington, E. (2026). PACE OCI data Toolkit (Version 1.0.0.6) [Computer software]. https://doi.org/10.5281/zenodo.18382540
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15873995.svg)](https://doi.org/10.5281/zenodo.15873995)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18382540.svg)](https://doi.org/10.5281/zenodo.18382540)
 
 ## Contact information
 
