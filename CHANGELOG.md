@@ -3,6 +3,9 @@
 
 **Note:** The status of PACE OCI LandVI [*and now the Chlorophyll-a*] updates can be tracked using the following [calendar](https://bit.ly/pace_oci_8d_cal).
 
+## Updates: 22.05.2026
+1. As of yesterday (21.05.2026), the PACE OCI surface reflectance data has been updated to March 2026, probably the product of the version 3.2 processing. I will be extracting data over the next few weeks.
+
 ## Updates: 15.05.2026
 1. The following is a new effort seeking to leverage PACE for fisheries management: https://fish-pace.github.io.
    * *"The Fish-PACE User Group serves as a forum for connecting, supporting, and growing the fisheries and ocean ecosystem user community around NASA’s PACE mission and new ocean color products, with the goal to advance applications for fisheries, marine ecosystems, and coastal decision-making. We support a Slack channel, events, trainings (workshops and hackweeks) and a community JupyterHub."*
