@@ -3,6 +3,11 @@
 
 **Note:** The status of PACE OCI LandVI [*and now the Chlorophyll-a*] updates can be tracked using the following [calendar](https://bit.ly/pace_oci_8d_cal).
 
+## Updates: 27.05.2026
+1. Relevant to PACE, the following has information on the **Essential Ocean Variables** (EOVs), which is similar to the **Essential Biodiversity Variables** (EBVs), which are popular in the biodiversity space: https://marcobolo-project.eu/eovs-ebvs-infographics/.
+
+<img width="683" height="483" alt="image" src="https://github.com/user-attachments/assets/318064e6-8d7b-46e6-b945-59446a307805" />
+
 ## Updates: 22.05.2026
 1. As of yesterday (21.05.2026), the PACE OCI surface reflectance data has been updated to March 2026, probably the product of the version 3.2 processing. I will be extracting data over the next few weeks.
 
