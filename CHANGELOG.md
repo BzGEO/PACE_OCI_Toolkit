@@ -3,6 +3,11 @@
 
 **Note:** The status of PACE OCI LandVI [*and now the Chlorophyll-a*] updates can be tracked using the following [calendar](https://bit.ly/pace_oci_8d_cal).
 
+## Updates: 28.05.2026
+1. The PACE mission is organizing a Summer 2026: Help Hub Summer Hotline Series over three dates in July and August: https://pace.oceansciences.org/events_more.htm?id=90.
+
+<img width="1800" height="2253" alt="pace_hotline_summer_chats_2026" src="https://github.com/user-attachments/assets/bcdf9977-bcc2-411e-abb8-f4229b46d9c7" />
+
 ## Updates: 27.05.2026
 1. Relevant to PACE, the following has information on the **Essential Ocean Variables** (EOVs), which is similar to the **Essential Biodiversity Variables** (EBVs), which are popular in the biodiversity space: https://marcobolo-project.eu/eovs-ebvs-infographics/.
 
