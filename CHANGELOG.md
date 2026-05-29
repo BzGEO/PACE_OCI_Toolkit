@@ -4,7 +4,7 @@
 **Note:** The status of PACE OCI LandVI [*and now the Chlorophyll-a*] updates can be tracked using the following [calendar](https://bit.ly/pace_oci_8d_cal).
 
 ## Updates: 28.05.2026
-1. The PACE mission is organizing a Summer 2026: Help Hub Summer Hotline Series over three dates in July and August: https://pace.oceansciences.org/events_more.htm?id=90.
+1. The PACE mission is organizing a **Summer 2026: Help Hub Summer Hotline** series over three dates in July and August: https://pace.oceansciences.org/events_more.htm?id=90.
 
 <img width="450" height="562" alt="pace_hotline_summer_chats_2026" src="https://github.com/user-attachments/assets/bcdf9977-bcc2-411e-abb8-f4229b46d9c7" />
 
