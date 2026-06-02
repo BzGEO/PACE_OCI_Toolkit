@@ -33,7 +33,7 @@
 
 ## Geographic domain(s)
 * Quad pol NISAR imagery are mainly available only for the midwest US.
-* EMIT and Tanager hyperspectral data are available for a significant part of El Salvador, as is data from NISAR
+* EMIT, PACE OCI, and Tanager hyperspectral data are available for a significant part of El Salvador, as is data from NISAR
 
 ## Other
   * X
