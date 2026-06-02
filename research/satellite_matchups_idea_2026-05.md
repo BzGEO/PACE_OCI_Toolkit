@@ -1,5 +1,5 @@
 # Research idea involving PACE OCI and other datasets
-*Last updated: 05.05.2026*
+*Last updated: 02.06.2026*
 
 ## Objectives
 * Develop data match-up involving the following, as possible / available:
@@ -33,6 +33,7 @@
 
 ## Geographic domain(s)
 * Quad pol NISAR imagery are mainly available only for the midwest US.
+* EMIT and Tanager hyperspectral data are available for a significant part of El Salvador, as is data from NISAR
 
 ## Other
   * X
