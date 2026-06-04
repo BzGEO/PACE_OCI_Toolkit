@@ -3,6 +3,9 @@
 
 **Note:** The status of PACE OCI LandVI [*and now the Chlorophyll-a*] updates can be tracked using the following [calendar](https://bit.ly/pace_oci_8d_cal).
 
+## Updates: 04.06.2026
+1. As of today, 4 June 2026, the monthly PACE OCI surface reflectance data (and likely the other monthly datasets) is updated through April 2026. We are still pending the action to ingest the reprocessed version 3.2 data. To date, there's now more than 2 years worth of available PACE OCI data.
+
 ## Updates: 28.05.2026
 1. The PACE mission is organizing a **Summer 2026: Help Hub Summer Hotline** series over three dates in July and August: https://pace.oceansciences.org/events_more.htm?id=90.
 
