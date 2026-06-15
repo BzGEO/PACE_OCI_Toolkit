@@ -3,6 +3,9 @@
 
 **Note:** The status of PACE OCI LandVI [*and now the Chlorophyll-a*] updates can be tracked using the following [calendar](https://bit.ly/pace_oci_8d_cal).
 
+## Updates: 15.06.2026
+1. The next PACE OCI Toolkit-related outing will be a demo during the upcoming [**Advanced Earth Observation Innovations Partnership (AEOIP)**](https://www.esipfed.org/collaboration-areas/aeoip/) meeting on 23 June 2026.
+
 ## Updates: 04.06.2026
 1. As of today, 4 June 2026, the monthly PACE OCI surface reflectance data (and likely the other monthly datasets) is updated through April 2026. We are still pending the action to ingest the reprocessed version 3.2 data. To date, there's now more than 2 years worth of available PACE OCI data.
 
