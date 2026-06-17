@@ -3,6 +3,9 @@
 
 **Note:** The status of PACE OCI LandVI [*and now the Chlorophyll-a*] updates can be tracked using the following [calendar](https://bit.ly/pace_oci_8d_cal).
 
+## Updates: 17.06.2026
+1. The NASA PACE Community Newsletter for Spring 2026 has just been released: https://pace.oceansciences.org/newsletter/Spring2026.html.
+
 ## Updates: 16.06.2026
 1. We are in the process of ingesting the recently released monthly PACE OCI **surface reflectance data mosaics** for February 2026, March 2026, and April 2026 into GEE, albeit in a new asset space.
 
