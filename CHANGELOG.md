@@ -7,7 +7,7 @@
 1. The NASA PACE Community Newsletter for Spring 2026 has just been released: https://pace.oceansciences.org/newsletter/Spring2026.html.
 
 ## Updates: 16.06.2026
-1. We are in the process of ingesting the recently released monthly PACE OCI **surface reflectance data mosaics** for February 2026, March 2026, and April 2026 into GEE, albeit in a new asset space.
+1. We are in the process of ingesting the recently released monthly PACE OCI **surface reflectance data mosaics** for February 2026, March 2026, and April 2026 into GEE, albeit in a new asset space. This is still in progress.
 
 ## Updates: 15.06.2026
 1. The next PACE OCI Toolkit-related outing will be a demo during the upcoming [**Advanced Earth Observation Innovations Partnership** (AEOIP)](https://www.esipfed.org/collaboration-areas/aeoip/) meeting on [23 June 2026](https://www.esipfed.org/event/earth-observation-eo-for-land-management-2026-06-23/) at 🕐 1:00-2:00 pm U.S. Central Daylight Time (CDT).
