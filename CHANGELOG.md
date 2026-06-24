@@ -5,7 +5,7 @@
 
 ## Updates: 24.06.2026
 1. Related to PACE, the current NASA [EMIT](https://earth.jpl.nasa.gov/emit/) mission will be hosting its **Technical Interchange Meeting** (TIM) on 9-11 September 2026, with in-person as well as virtual participation. One can register using the following [link](https://docs.google.com/forms/d/e/1FAIpQLSfZjLtlZHPLIbpmPneYq7roulIVHqiFShllrQoRjiowyuUyjQ/viewform).
-2. Today (24 June), the EMIT / EAGLE-VSWIR missions launched the first of its monthly **VSWIR Community Webinar Series**. The team released a [calendar](https://docs.google.com/spreadsheets/d/e/2PACX-1vRjnpX_p9ZEw7LLEFs-YwwCsIndXD_0RdwvcA135XCPizVnwUSSeBo14g-ASTtfAYGBZ1lBulK8sEnd/pubhtml) of their upcoming presentations.
+2. Today (24 June), the EMIT / EAGLE-VSWIR mission team launched the first of its monthly **VSWIR Community Webinar Series**. The team released a [calendar](https://docs.google.com/spreadsheets/d/e/2PACX-1vRjnpX_p9ZEw7LLEFs-YwwCsIndXD_0RdwvcA135XCPizVnwUSSeBo14g-ASTtfAYGBZ1lBulK8sEnd/pubhtml) of their upcoming presentations.
   * The agenda for the 1st VSWIR Community Webinar is located ⬇️.
 
 <img width="1200" height="677" alt="image" src="https://github.com/user-attachments/assets/f60c479a-f14f-47b4-82e9-ffc3f418f0a2" />
