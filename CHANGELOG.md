@@ -15,7 +15,7 @@
 <img width="1197" height="672" alt="image" src="https://github.com/user-attachments/assets/80f742c4-dbb5-43ad-963d-4df582e5028d" />
 
 ## Updates: 23.06.2026
-1. We provided a demo of the PACE OCI Toolkit during the [AEOIP](https://www.esipfed.org/collaboration-areas/aeoip/) meeting *today*. It was recorded, so we will share the link when it's available.
+1. We provided a demo of the PACE OCI Toolkit during the [AEOIP](https://www.esipfed.org/collaboration-areas/aeoip/) meeting *today*. Dr. Morgaine McKibben and Skye Caplan of NASA Goddard also presented respective overview of PACE and PACE terrestrial products. The webinar - *attended by 60+ participants* - was recorded, so we will share the link when it's available.
 2. As of 22 June 2026, both monthly **surface reflectance** (SFREFL) and **vegetation index** (LandVI) datasets have been updated in the *new* associated GEE asset space through April 2026, bringing the total to 26 months worth of data for both parameters. Updating of the monthly aquatic **remote sensing reflectance** (RRS) and **chlorophyll a** (CHL) is pending.
 
 ## Updates: 17.06.2026
