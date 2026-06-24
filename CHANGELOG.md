@@ -3,6 +3,9 @@
 
 **Note:** The status of PACE OCI LandVI [*and now the Chlorophyll-a*] updates can be tracked using the following [calendar](https://bit.ly/pace_oci_8d_cal).
 
+## Updates: 24.06.2026
+1. As of 22 June 2026, both monthly **surface reflectance** (SFREFL) and **vegetation index** (LandVI) datasets have been updated in the *new* associated GEE asset space through April 2026, bringing the total to 26 months worth of data for both parameters. Updating of the monthly aquatic **remote sensing reflectance** (RRS) and **chlorophyll a** (CHL) is pending.
+
 ## Updates: 17.06.2026
 1. The NASA PACE Community Newsletter for Spring 2026 has just been released: https://pace.oceansciences.org/newsletter/Spring2026.html.
 
