@@ -4,18 +4,18 @@
 **Note:** The status of PACE OCI LandVI [*and now the Chlorophyll-a*] updates can be tracked using the following [calendar](https://bit.ly/pace_oci_8d_cal).
 
 ## Updates: 24.06.2026
-1. Related to PACE, the current NASA EMIT mission will be hosting its **Technical Interchange Meeting** (TIM) on 9-11 September 2026, with in-person as well as virtual participation. One can register using the following [link](https://docs.google.com/forms/d/e/1FAIpQLSfZjLtlZHPLIbpmPneYq7roulIVHqiFShllrQoRjiowyuUyjQ/viewform).
+1. Related to PACE, the current NASA [EMIT](https://earth.jpl.nasa.gov/emit/) mission will be hosting its **Technical Interchange Meeting** (TIM) on 9-11 September 2026, with in-person as well as virtual participation. One can register using the following [link](https://docs.google.com/forms/d/e/1FAIpQLSfZjLtlZHPLIbpmPneYq7roulIVHqiFShllrQoRjiowyuUyjQ/viewform).
 2. Today (24 June), the EMIT / EAGLE-VSWIR missions launched the first of its monthly **VSWIR Community Webinar Series**. The team released a [calendar](https://docs.google.com/spreadsheets/d/e/2PACX-1vRjnpX_p9ZEw7LLEFs-YwwCsIndXD_0RdwvcA135XCPizVnwUSSeBo14g-ASTtfAYGBZ1lBulK8sEnd/pubhtml) of their upcoming presentations.
-  * The agenda for the 1st of the VSWIR Community Webinar Series is ⬇️
+  * The agenda for the 1st VSWIR Community Webinar is located ⬇️.
 
 <img width="1200" height="677" alt="image" src="https://github.com/user-attachments/assets/f60c479a-f14f-47b4-82e9-ffc3f418f0a2" />
 
-  * Dr. Robert O. Green, the EMIT mission Principal Investigator, presented a slide on the history of **imaging spectroscopy** at NASA, from 1982 to present:
+  * [Dr. Robert O. Green](https://www.jpl.nasa.gov/site/research/rog/), the EMIT mission Principal Investigator, presented a slide on the history of **imaging spectroscopy** at NASA, from 1982 to present:
 
 <img width="1197" height="672" alt="image" src="https://github.com/user-attachments/assets/80f742c4-dbb5-43ad-963d-4df582e5028d" />
 
 ## Updates: 23.06.2026
-1. We provided a demo of the PACE OCI Toolkit during the AEOIP meeting *today*. It was recorded, so we will share the link when it's available.
+1. We provided a demo of the PACE OCI Toolkit during the [AEOIP](https://www.esipfed.org/collaboration-areas/aeoip/) meeting *today*. It was recorded, so we will share the link when it's available.
 2. As of 22 June 2026, both monthly **surface reflectance** (SFREFL) and **vegetation index** (LandVI) datasets have been updated in the *new* associated GEE asset space through April 2026, bringing the total to 26 months worth of data for both parameters. Updating of the monthly aquatic **remote sensing reflectance** (RRS) and **chlorophyll a** (CHL) is pending.
 
 ## Updates: 17.06.2026
