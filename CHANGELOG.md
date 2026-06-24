@@ -5,6 +5,7 @@
 
 ## Updates: 24.06.2026
 1. As of 22 June 2026, both monthly **surface reflectance** (SFREFL) and **vegetation index** (LandVI) datasets have been updated in the *new* associated GEE asset space through April 2026, bringing the total to 26 months worth of data for both parameters. Updating of the monthly aquatic **remote sensing reflectance** (RRS) and **chlorophyll a** (CHL) is pending.
+2. Related to PACE, the current NASA EMIT mission will be hosting a Technical Interchange Meeting (TIM) on 9-11 September 2026, with in-person as well as virtual participation. One can register using the following [link](https://docs.google.com/forms/d/e/1FAIpQLSfZjLtlZHPLIbpmPneYq7roulIVHqiFShllrQoRjiowyuUyjQ/viewform).
 
 ## Updates: 17.06.2026
 1. The NASA PACE Community Newsletter for Spring 2026 has just been released: https://pace.oceansciences.org/newsletter/Spring2026.html.
