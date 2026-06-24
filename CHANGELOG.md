@@ -8,7 +8,7 @@
 2. Related to PACE, the current NASA EMIT mission will be hosting its **Technical Interchange Meeting** (TIM) on 9-11 September 2026, with in-person as well as virtual participation. One can register using the following [link](https://docs.google.com/forms/d/e/1FAIpQLSfZjLtlZHPLIbpmPneYq7roulIVHqiFShllrQoRjiowyuUyjQ/viewform).
 
 ## Updates: 17.06.2026
-1. The NASA PACE Community Newsletter for Spring 2026 has just been released: https://pace.oceansciences.org/newsletter/Spring2026.html.
+1. The **NASA PACE Community Newsletter** for Spring 2026 has just been released: https://pace.oceansciences.org/newsletter/Spring2026.html.
 
 ## Updates: 16.06.2026
 1. We are in the process of ingesting the recently released monthly PACE OCI **surface reflectance data mosaics** for February 2026, March 2026, and April 2026 into GEE, albeit in a new asset space. This is still in progress.
