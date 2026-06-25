@@ -109,6 +109,10 @@ Given the launch of the PACE observatory in early 2024 and its unique hyperspect
        19  1.393348e+06           0.0891               98.9819
        20  1.282326e+06           0.0820               99.0639
 
+### Figure 1. Visualization of the PCA of 21 months of PACE OCI data for Mesoamerica (first 3 PCs)
+
+<img width="836" height="800" alt="image" src="https://github.com/user-attachments/assets/240b29cf-1356-4e3e-a741-7544a8ed0ab6" />
+
 ### Table 2. Percent and accumulative eigenvalues (24 months of data)
 
 | PC | Eigenvalue | % of EigenValues | Accumulative of EigenValues |
@@ -127,6 +131,10 @@ Given the launch of the PACE observatory in early 2024 and its unique hyperspect
        11  2.215396e+06           0.1065               98.8040
        12  2.141794e+06           0.1029               98.9069
        13  2.040458e+06           0.0981               99.0050
+
+### Figure 2. Visualization of the PCA of 24 months of PACE OCI data for Mesoamerica (first 3 PCs)
+
+<img width="840" height="792" alt="image" src="https://github.com/user-attachments/assets/e9494dbc-d4dd-49ec-8cb7-38ae6a253843" />
 
 ## Discussion
 * Can we use the methods we have explored in this research to gain insights - enabled by PACE's hyperspectral data - into the spatial distribution of ecosystems in other parts of the world?
