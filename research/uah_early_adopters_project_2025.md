@@ -1,5 +1,5 @@
 # Integration of Hyperspectral Imagery and Spaceborne LiDAR Data for Updated Mapping of the Ecosystems in the Mesoamerican Biological Corridor
-*Last updated: 03.02.2026*
+*Last updated: 25.06.2026*
 
 ## Co-authors
 * [Emil A. Cherrington](https://github.com/BzGEO), Ph.D., Principal Research Scientist, [Lab for Applied Sciences](https://www.uah.edu/essc/laboratory-for-applied-science), [Earth System Science Center](https://www.uah.edu/essc), the [University of Alabama in Huntsville](https://www.uah.edu)
@@ -83,7 +83,7 @@ Given the launch of the PACE observatory in early 2024 and its unique hyperspect
 * And compared to the original ~3 GB data stack of the 21 months of surface reflectance data, the 20 band PCA output was only 39 MB.
 * TBD
 
-### Table 1. Percent and accumulative eigenvalues
+### Table 1. Percent and accumulative eigenvalues (21 months of data)
 
 | PC | Eigenvalue | % of EigenValues | Accumulative of EigenValues |
 | --- | --- | --- | --- |
@@ -108,6 +108,36 @@ Given the launch of the PACE observatory in early 2024 and its unique hyperspect
        18  1.584074e+06           0.1013               98.8928
        19  1.393348e+06           0.0891               98.9819
        20  1.282326e+06           0.0820               99.0639
+
+### Table 2. Percent and accumulative eigenvalues (24 months of data)
+
+| PC | Eigenvalue | % of EigenValues | Accumulative of EigenValues |
+| --- | --- | --- | --- |
+
+        1  3.782123e+09          32.3766               32.3766
+        2  1.188960e+09          10.1780               42.5546
+        3  8.893526e+08           7.6132               50.1678
+        4  7.120226e+08           6.0952               56.2630
+        5  5.450091e+08           4.6655               60.9285
+        6  5.311290e+08           4.5467               65.4752
+        7  5.228109e+08           4.4755               69.9507
+        8  4.707050e+08           4.0294               73.9801
+        9  4.429916e+08           3.7922               77.7723
+       10  3.737766e+08           3.1997               80.9720
+       11  3.526451e+08           3.0188               83.9908
+       12  3.282841e+08           2.8102               86.8010
+       13  2.421054e+08           2.0725               88.8735
+       14  2.248241e+08           1.9246               90.7981
+       15  1.921610e+08           1.6450               92.4431
+       16  1.733940e+08           1.4843               93.9274
+       17  1.537037e+08           1.3158               95.2432
+       18  1.427863e+08           1.2223               96.4655
+       19  1.092949e+08           0.9356               97.4011
+       20  8.695126e+07           0.7443               98.1455
+       21  5.456513e+07           0.4671               98.6126
+       22  4.524454e+07           0.3873               98.9999
+       23  4.220664e+07           0.3613               99.3612
+
 
 ## Discussion
 * Can we use the methods we have explored in this research to gain insights - enabled by PACE's hyperspectral data - into the spatial distribution of ecosystems in other parts of the world?
