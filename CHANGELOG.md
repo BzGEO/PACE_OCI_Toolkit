@@ -8,7 +8,7 @@
 
 <img width="286" height="215" alt="image" src="https://github.com/user-attachments/assets/4ecbaebc-e7d7-4ad8-b4bb-0c91eeebc003" />
 
-2. On a hyperspectral related note, an update on the [Planet Tanager Open Data Competition](https://learn.planet.com/2026-Tanager-Open-Data-Competition.html) was mass emailed this morning. They are opening **office hours** at 10:00 am CDT on Thu. 16 July 2026. Find more information and see the resources I have compiled [below on 19.04.2026](https://github.com/BzGEO/PACE_OCI_Toolkit/blob/main/CHANGELOG.md#updates-19042026).
+2. On a hyperspectral related note, an update on the [Planet Tanager Open Data Competition](https://learn.planet.com/2026-Tanager-Open-Data-Competition.html) was mass emailed this morning. They are opening **office hours** at **10:00 am CDT** on **Thu. 16 July 2026**. Find more information and see the resources I have compiled [below on 19.04.2026](https://github.com/BzGEO/PACE_OCI_Toolkit/blob/main/CHANGELOG.md#updates-19042026).
 
 <img width="436" height="410" alt="image" src="https://github.com/user-attachments/assets/7106cae3-3723-4334-9fad-6aaeebf25d52" />
 
