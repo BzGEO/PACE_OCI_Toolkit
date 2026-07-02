@@ -3,9 +3,13 @@
 
 **Note:** The status of PACE OCI LandVI [*and now the Chlorophyll-a*] updates can be tracked using the following [calendar](https://bit.ly/pace_oci_8d_cal).
 
+## Updates: 02.07.2026
+1. As indicated in the 28.05.2026 update [below](https://github.com/BzGEO/PACE_OCI_Toolkit/edit/main/CHANGELOG.md#updates-28052026), the **PACE Help Hub Summer Hotline** begins today, and continues in two weeks (**Thu. 16 July**), and later on **Thu. 20 August**. The times are **8:00-9:00 am** and **3:00-4:00 pm** CDT.
+
+<img width="286" height="215" alt="image" src="https://github.com/user-attachments/assets/4ecbaebc-e7d7-4ad8-b4bb-0c91eeebc003" />
 
 ## Updates: 28.06.2026
-1. https://science.nasa.gov/earth/nasas-pace-mission-studies-smoke-fires/
+1. The following article was recently published: [NASA’s PACE Mission Studies Smoke, Fires](https://science.nasa.gov/earth/nasas-pace-mission-studies-smoke-fires/).
 
 ## Updates: 24.06.2026 
 1. Related to PACE, the current NASA [EMIT](https://earth.jpl.nasa.gov/emit/) mission will be hosting its **Technical Interchange Meeting** (TIM) on 9-11 September 2026, with in-person as well as virtual participation. One can register using the following [link](https://docs.google.com/forms/d/e/1FAIpQLSfZjLtlZHPLIbpmPneYq7roulIVHqiFShllrQoRjiowyuUyjQ/viewform).
