@@ -9,7 +9,7 @@
 <img width="286" height="215" alt="image" src="https://github.com/user-attachments/assets/4ecbaebc-e7d7-4ad8-b4bb-0c91eeebc003" />
 
 ## Updates: 28.06.2026
-1. The following article was recently published: [NASA’s PACE Mission Studies Smoke, Fires](https://science.nasa.gov/earth/nasas-pace-mission-studies-smoke-fires/).
+1. The following article was recently published by *NASA Science*: [NASA’s PACE Mission Studies Smoke, Fires](https://science.nasa.gov/earth/nasas-pace-mission-studies-smoke-fires/).
 
 ## Updates: 24.06.2026 
 1. Related to PACE, the current NASA [EMIT](https://earth.jpl.nasa.gov/emit/) mission will be hosting its **Technical Interchange Meeting** (TIM) on 9-11 September 2026, with in-person as well as virtual participation. One can register using the following [link](https://docs.google.com/forms/d/e/1FAIpQLSfZjLtlZHPLIbpmPneYq7roulIVHqiFShllrQoRjiowyuUyjQ/viewform).
