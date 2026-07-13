@@ -4,7 +4,7 @@
 **Note:** The status of PACE OCI LandVI [*and now the Chlorophyll-a*] updates can be tracked using the following [calendar](https://bit.ly/pace_oci_8d_cal).
 
 ## Updates: 12.07.2026
-1. As of today (12 July 2026), the [**PACE OCI surface reflectance**](https://pace.oceansciences.org/pace_sfrefl.htm) product for May 2026 is still *not yet available*. I will subsequently post a request on the [NASA EarthData Forum](https://forum.earthdata.nasa.gov/viewforum.php?f=7).
+1. As of today (12 July 2026), the [**PACE OCI surface reflectance**](https://pace.oceansciences.org/pace_sfrefl.htm) product for May 2026 is still *not yet available*. I ~~will subsequently post~~ *have submitted* a request on the [NASA EarthData Forum](https://forum.earthdata.nasa.gov/viewforum.php?f=7).
 2. Per the update below, the next **PACE Help Hub Summer Hotline** [sessions](https://pace.oceansciences.org/events_more.htm?id=90) will occur on this Thursday, 16 July 2026. The sessions will include a [*Jupyter Notebook*](https://en.wikipedia.org/wiki/Project_Jupyter) demo combining **PACE + EMIT**.
 
 ## Updates: 02.07.2026
