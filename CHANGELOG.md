@@ -4,7 +4,7 @@
 **Note:** The status of PACE OCI LandVI [*and now the Chlorophyll-a*] updates can be tracked using the following [calendar](https://bit.ly/pace_oci_8d_cal).
 
 ## Updates: 14.07.2026
-1. **Upcoming event:** On 11 August, NASA SPoRT is hosting a [stakeholder virtual consultation](https://docs.google.com/forms/d/e/1FAIpQLSfSyAp_13LZSnGfWgyOTzHn0nUCmBDOfmd63YzL3XbCWS6JcA/viewform) on PACE OCI *chlorophyll-a* data for harmful algal blooms and water quality monitoring.
+1. **Upcoming event:** On 11 August, [NASA SPoRT](https://weather.ndc.nasa.gov/sport/) is hosting a [stakeholder virtual consultation](https://docs.google.com/forms/d/e/1FAIpQLSfSyAp_13LZSnGfWgyOTzHn0nUCmBDOfmd63YzL3XbCWS6JcA/viewform) on PACE OCI *chlorophyll-a* data for harmful algal blooms and water quality monitoring.
 
 <img width="386" height="499" alt="image" src="https://github.com/user-attachments/assets/089712b3-2b6d-49ec-82d3-42238a754c23" />
 
