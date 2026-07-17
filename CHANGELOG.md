@@ -4,7 +4,7 @@
 **Note:** The status of PACE OCI LandVI [*and now the Chlorophyll-a*] updates can be tracked using the following [calendar](https://bit.ly/pace_oci_8d_cal).
 
 ## Updates: 16.07.2026
-1. At the second [**PACE Help Hub Summer Hotline**](https://pace.oceansciences.org/events_more.htm?id=90) session on 16 July, there were demos of **three Jupyter Notebooks** leveraging PACE:
+1. At the *second* [**PACE Help Hub Summer Hotline**](https://pace.oceansciences.org/events_more.htm?id=90) session on 16 July, there were demos of **three Jupyter Notebooks** leveraging PACE:
    * [PACE / EarthCare match-up](https://github.com/seanremy/pace-earthcare-matchups) ➡️ GitHub repo from [Sean Foley](https://github.com/seanremy) of NASA Goddard / Morgan State University
      * Accompanying [poster](https://airdrive.eventsair.com/eventsairwesteuprod/production-nikal-public/9611300136af4923b3449a820a4b9c27)
    * [PACE EMIT match-up, part 1](https://nasa.github.io/VITALS/python/emit_pace/01_Colocate_PACE_EMIT_Data.html)
