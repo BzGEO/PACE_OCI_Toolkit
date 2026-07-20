@@ -4,7 +4,7 @@
 **Note:** The status of PACE OCI LandVI [*and now the Chlorophyll-a*] updates can be tracked using the following [calendar](https://bit.ly/pace_oci_8d_cal).
 
 ## Updates: 20.07.2026
-1. Since the new version of the PACE OCI remote sensing reflectance (RRS) data (*following version 3.2 reprocessing*) are now integrated into the **AOP** product suite, we will be extracting that data soon.
+1. Since the new version of the PACE OCI **remote sensing reflectance (RRS)** data (*following version 3.2 reprocessing*) are now integrated into the **AOP** product suite, we will be extracting that data soon.
 
 ## Updates: 17.07.2026
 1. Finding other **PACE** resources on GitHub (*with the **nasa-pace** keyword*): https://github.com/topics/nasa-pace.
