@@ -6,6 +6,8 @@
 ## Updates: 20.07.2026
 1. Since the new version of the PACE OCI **remote sensing reflectance (RRS)** data (*following version 3.2 reprocessing*) are now integrated into the **AOP** product suite, we will be extracting that data soon.
 
+<img width="373" height="198" alt="image" src="https://github.com/user-attachments/assets/c3499f08-4fb7-47a9-b7d7-1120dd13e33a" />
+
 ## Updates: 17.07.2026
 1. Finding other **PACE** resources on GitHub (*with the **nasa-pace** keyword*): https://github.com/topics/nasa-pace.
 
