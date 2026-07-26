@@ -3,6 +3,9 @@
 
 **Note:** The status of PACE OCI LandVI [*and now the Chlorophyll-a*] updates can be tracked using the following [calendar](https://bit.ly/pace_oci_8d_cal).
 
+## Updates: 26.07.2026
+1. As of today, 26 July 2026, the May and June 2026 PACE OCI monthly composites for vegetation indices (LandVI) and surface reflectance (SFREFL) are still not available.
+
 ## Updates: 20.07.2026
 1. Since the new version of the PACE OCI **remote sensing reflectance (RRS)** data (*following version 3.2 reprocessing*) are now integrated into the **AOP** product suite, we will be extracting that data soon.
 
