@@ -3,6 +3,9 @@
 
 **Note:** The status of PACE OCI LandVI [*and now the Chlorophyll-a*] updates can be tracked using the following [calendar](https://bit.ly/pace_oci_8d_cal).
 
+## Updates: 27.07.2026
+1. The servers housing PACE data were affected by a data outage over the weekend: "*On Sunday, July 26, the building housing PACE SDS servers experienced a mechanical failure that has ultimately resulted in processing delays. Additional information can be found here*: https://www.earthdata.nasa.gov/data/alerts-outages/obpg-server-outage-data-processing-web-tools-affected"
+
 ## Updates: 26.07.2026
 1. As of today, 26 July 2026, the May and June 2026 PACE OCI monthly composites for vegetation indices (LandVI) and surface reflectance (SFREFL) are still not available.
 
