@@ -3,6 +3,9 @@
 
 **Note:** The status of PACE OCI LandVI [*and now the Chlorophyll-a*] updates can be tracked using the following [calendar](https://bit.ly/pace_oci_8d_cal).
 
+## Updates: 28.07.2026
+1. The SDS server outage indicated in the previous update has been resolved as of this morning.
+
 ## Updates: 27.07.2026
 1. The servers housing PACE data were affected by a data outage over the weekend: "*On Sunday, July 26, the building housing PACE SDS servers experienced a mechanical failure that has ultimately resulted in processing delays. Additional information can be found here*: https://www.earthdata.nasa.gov/data/alerts-outages/obpg-server-outage-data-processing-web-tools-affected"
 
