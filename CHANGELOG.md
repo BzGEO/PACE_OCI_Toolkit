@@ -3,6 +3,9 @@
 
 **Note:** The status of PACE OCI LandVI [*and now the Chlorophyll-a*] updates can be tracked using the following [calendar](https://bit.ly/pace_oci_8d_cal).
 
+## Updates: 02.08.2026
+1. As of today, the 2nd of August, the missing PACE OCI monthly composites include: May 2026, June 2026, and July 2026. No response has been provided to the question I posed on the EarthData Forum: https://forum.earthdata.nasa.gov/viewtopic.php?t=8052.
+
 ## Updates: 28.07.2026
 1. The SDS server outage indicated in the previous update has been resolved as of this morning.
 
