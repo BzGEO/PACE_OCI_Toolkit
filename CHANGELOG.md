@@ -6,6 +6,9 @@
 ## Updates: 02.08.2026
 1. As of today, the 2nd of August, the missing PACE OCI monthly composites include: May 2026, June 2026, and July 2026. No response has been provided to the question I posed on the EarthData Forum: https://forum.earthdata.nasa.gov/viewtopic.php?t=8052.
 
+## Updates: 01.08.2026
+1. Somewhat relevant to PACE's oceanographic imaging capabilities is the following: Harris et al. (2026)'s [Ecological Benthic Units: A New Characterization of the Global Seafloor for Ocean Spatial Planning and Management](https://tos.org/oceanography/article/ecological-benthic-units-a-new-characterization-of-the-global-seafloor-for-ocean-spatial-planning-and-management).
+
 ## Updates: 28.07.2026
 1. The SDS server outage indicated in the previous update has been resolved as of this morning.
 
