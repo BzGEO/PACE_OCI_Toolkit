@@ -3,7 +3,7 @@
 
 **Note:** The status of PACE OCI LandVI [*and now the Chlorophyll-a*] updates can be tracked using the following [calendar](https://bit.ly/pace_oci_8d_cal).
 
-## Updates: 11.08.2026
+## Updates: 16.08.2026
 1. Same as with the previous update, as of today, the missing PACE OCI monthly composites include: May 2026, June 2026, and July 2026.
 
 ## Updates: 03.08.2026
