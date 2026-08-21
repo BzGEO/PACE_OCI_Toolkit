@@ -3,6 +3,9 @@
 
 **Note:** The status of PACE OCI LandVI [*and now the Chlorophyll-a*] updates can be tracked using the following [calendar](https://bit.ly/pace_oci_8d_cal).
 
+## Updates: 21.08.2026
+1. Yesterday, on Thu. 20 August 2026, there were the third and final sessions of the [**PACE Help Hub Summer Hotline**](https://pace.oceansciences.org/events_more.htm?id=90). As with the previous sessions, they were divided into morning and afternoon sessions depending on participants' availability. This third set of sessions focused on ocean and freshwater monitoring. Since the sessions were recorded, it is anticipated that they will be published at some point.
+
 ## Updates: 16.08.2026
 1. Same as with the previous update, as of today, the missing PACE OCI monthly composites include: May 2026, June 2026, and July 2026.
 
