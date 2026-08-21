@@ -4,7 +4,9 @@
 **Note:** The status of PACE OCI LandVI [*and now the Chlorophyll-a*] updates can be tracked using the following [calendar](https://bit.ly/pace_oci_8d_cal).
 
 ## Updates: 21.08.2026
-1. Yesterday, on Thu. 20 August 2026, there were the third and final sessions of the [**PACE Help Hub Summer Hotline**](https://pace.oceansciences.org/events_more.htm?id=90). As with the previous sessions, they were divided into morning and afternoon sessions depending on participants' availability. This third set of sessions focused on ocean and freshwater monitoring. Since the sessions were recorded, it is anticipated that they will be published at some point.
+1. Yesterday, on **Thu. 20 August 2026**, there were the third and final sessions of the [**PACE Help Hub Summer Hotline**](https://pace.oceansciences.org/events_more.htm?id=90). As with the previous sessions, they were divided into morning and afternoon sessions depending on participants' availability. This third set of sessions focused on ocean and freshwater monitoring. Since the sessions were recorded, it is anticipated that they will be published at some point.
+
+<img width="286" height="215" alt="image" src="https://github.com/user-attachments/assets/4ecbaebc-e7d7-4ad8-b4bb-0c91eeebc003" />
 
 ## Updates: 16.08.2026
 1. Same as with the previous update, as of today, the missing PACE OCI monthly composites include: May 2026, June 2026, and July 2026.
@@ -45,7 +47,6 @@
 1. **Upcoming event:** On 11 August, [NASA SPoRT](https://weather.ndc.nasa.gov/sport/) is hosting a [stakeholder virtual consultation](https://docs.google.com/forms/d/e/1FAIpQLSfSyAp_13LZSnGfWgyOTzHn0nUCmBDOfmd63YzL3XbCWS6JcA/viewform) on PACE OCI *chlorophyll-a* data for harmful algal blooms and water quality monitoring.
 
 <img width="386" height="499" alt="image" src="https://github.com/user-attachments/assets/089712b3-2b6d-49ec-82d3-42238a754c23" />
-
 
 ## Updates: 12.07.2026
 1. As of today (12 July 2026), the [**PACE OCI surface reflectance**](https://pace.oceansciences.org/pace_sfrefl.htm) product for May 2026 is still *not yet available*. I ~~will subsequently post~~ *have submitted* a [request](https://forum.earthdata.nasa.gov/viewtopic.php?t=8052) on the [NASA EarthData Forum](https://forum.earthdata.nasa.gov/viewforum.php?f=7).
