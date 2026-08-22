@@ -3,6 +3,13 @@
 
 **Note:** The status of PACE OCI LandVI [*and now the Chlorophyll-a*] updates can be tracked using the following [calendar](https://bit.ly/pace_oci_8d_cal).
 
+## Updates: 22.08.2026
+1. As of today (22nd August 2026), the PACE OCI May 2026 and June 2026 monthly composites are now available via the [OB.DAAC L3 & L4 Browser](https://oceandata.sci.gsfc.nasa.gov/l3/) for the **surface reflectance (SFREFL)** and **Land Vegetation Indices (LandVI)** level 3 products, now making 28 months of PACE OCI data available globally.
+
+<img width="970" height="178" alt="image" src="https://github.com/user-attachments/assets/e9655bfc-a64c-4736-8284-6dfa1413245f" />
+
+<img width="968" height="202" alt="image" src="https://github.com/user-attachments/assets/bb19b592-2f65-4281-9591-abb53f08c612" />
+
 ## Updates: 21.08.2026
 1. Yesterday, on **Thu. 20 August 2026**, there were the third and final sessions of the [**PACE Help Hub Summer Hotline**](https://pace.oceansciences.org/events_more.htm?id=90). As with the previous sessions, they were divided into morning and afternoon sessions depending on participants' availability. This third set of sessions focused on ocean and freshwater monitoring. Since the sessions were recorded, it is anticipated that they will be published at some point.
 
