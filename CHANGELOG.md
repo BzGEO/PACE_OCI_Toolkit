@@ -4,7 +4,7 @@
 ~~**Note:** The status of PACE OCI LandVI [*and now the Chlorophyll-a*] updates can be tracked using the following [calendar](https://bit.ly/pace_oci_8d_cal).~~
 
 ## Updates: 25.08.2026
-1. Related to **hyperspectral data in general** (albeit commercial), the following was published yesterday in *Space News*: [‘Decoding’ Earth: Demand signal for hyperspectral emerges](https://spacenews.com/decoding-earth-demand-signal-for-hyperspectral-emerges/).
+1. Related to **hyperspectral data in general** (*albeit commercial*), the following was published yesterday in *Space News*: [‘Decoding’ Earth: Demand signal for hyperspectral emerges](https://spacenews.com/decoding-earth-demand-signal-for-hyperspectral-emerges/).
 
 ## Updates: 24.08.2026
 1. We are in the process of acquiring the monthly PACE OCI data that were recently released. Updates will follow.
