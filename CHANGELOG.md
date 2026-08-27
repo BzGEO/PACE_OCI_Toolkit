@@ -5,6 +5,7 @@
 
 ## Updates: 25.08.2026
 1. Related to **hyperspectral data in general** (*albeit commercial*), the following was published yesterday in *Space News*: [‘Decoding’ Earth: Demand signal for hyperspectral emerges](https://spacenews.com/decoding-earth-demand-signal-for-hyperspectral-emerges/).
+   * *One reason for the optimistic forecast is AI. “Five years ago, extracting value from hundreds of spectral bands required specialist scientists,” Boggett said. “Today, AI models are increasingly able to identify patterns within highly complex datasets.”*
 
 ## Updates: 24.08.2026
 1. We are in the process of acquiring the monthly PACE OCI data that were recently released. Updates will follow.
