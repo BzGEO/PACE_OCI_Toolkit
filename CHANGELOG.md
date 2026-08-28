@@ -3,6 +3,9 @@
 
 ~~**Note:** The status of PACE OCI LandVI [*and now the Chlorophyll-a*] updates can be tracked using the following [calendar](https://bit.ly/pace_oci_8d_cal).~~
 
+## Updates: 28.08.2026
+1. Having acquired PACE OCI monthly composites for surface reflectance and vegetation indices, we are in the process of extracting the data as GeoTIFF, and importing that data into Earth Engine. Updates will follow.
+
 ## Updates: 25.08.2026
 1. Related to **hyperspectral data in general** (*albeit commercial*), the following was published yesterday in *Space News*: [‘Decoding’ Earth: Demand signal for hyperspectral emerges](https://spacenews.com/decoding-earth-demand-signal-for-hyperspectral-emerges/).
    * *One reason for the optimistic forecast is AI. “Five years ago, extracting value from hundreds of spectral bands required specialist scientists,” Boggett said. “Today, AI models are increasingly able to identify patterns within highly complex datasets.”*
