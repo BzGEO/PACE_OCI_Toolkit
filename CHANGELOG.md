@@ -4,7 +4,8 @@
 ~~**Note:** The status of PACE OCI LandVI [*and now the Chlorophyll-a*] updates can be tracked using the following [calendar](https://bit.ly/pace_oci_8d_cal).~~
 
 ## Updates: 28.08.2026
-1. Having acquired PACE OCI monthly composites for surface reflectance and vegetation indices, we are in the process of extracting the data as GeoTIFF, and importing that data into Earth Engine. Updates will follow.
+1. Having acquired PACE OCI monthly composites for surface reflectance and vegetation indices, we are in the process of extracting the data as GeoTIFF, and importing that data into GEE.
+2. The July 2026 monthly composites are also available, and have been processed. We are now uploading that data to GEE, as well as the May 2026 and June 2026 data.
 
 ## Updates: 25.08.2026
 1. Related to **hyperspectral data in general** (*albeit commercial*), the following was published yesterday in *Space News*: [‘Decoding’ Earth: Demand signal for hyperspectral emerges](https://spacenews.com/decoding-earth-demand-signal-for-hyperspectral-emerges/).
