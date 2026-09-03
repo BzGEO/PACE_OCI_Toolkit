@@ -4,7 +4,7 @@
 ~~**Note:** The status of PACE OCI LandVI [*and now the Chlorophyll-a*] updates can be tracked using the following [calendar](https://bit.ly/pace_oci_8d_cal).~~
 
 ## Updates: 03.09.2026
-1. The PACE quarterly [Community of Practice](https://pace.oceansciences.org/events_more.htm?id=92) meeting was today. Here is the link to Dr. Morgaine McKibben's overview presentation: https://nasa-ext.app.box.com/s/4prpwex7wo2sjy6d5hx1rc3guedwltwd.
+1. The PACE quarterly [Community of Practice](https://pace.oceansciences.org/events_more.htm?id=92) meeting was today. Here is the [link](https://nasa-ext.app.box.com/s/4prpwex7wo2sjy6d5hx1rc3guedwltwd) to Dr. Morgaine McKibben's overview presentation.
 
 ## Updates: 28.08.2026
 1. Having acquired PACE OCI monthly composites for [surface reflectance](https://pace.oceansciences.org/pace_sfrefl.htm) and [vegetation indices](https://www.earthdata.nasa.gov/data/catalog/ob-cloud-pace-oci-l3b-landvi-nrt-3.1), we are in the process of extracting the data as GeoTIFF, and importing that data into GEE.
