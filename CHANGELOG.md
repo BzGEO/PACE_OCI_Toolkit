@@ -6,6 +6,8 @@
 ## Updates: 26.09.2026
 1. In a few weeks, on Thu. 15th October 2026, the manager of this repo will be presenting on the PACE OCI Toolkit at an event organized by the Google Developer Group (GDG) chapter at Yale University. For additional details, see: https://gdg.community.dev/events/details/google-gdg-on-campus-yale-university-new-haven-united-states-presents-google-earth-engine-from-satellite-data-to-insights/.
 
+<img width="2294" height="1080" alt="image" src="https://github.com/user-attachments/assets/039b4e35-0aaa-44d9-a235-2802c3806a66" />
+
 ## Updates: 24.09.2026
 1. Yesterday (23.09.2026), there was a [NASA EarthData](https://www.earthdata.nasa.gov) webinar on the use of [AppEEARS](https://appeears.earthdatacloud.nasa.gov) to process [PACE](https://pace.gsfc.nasa.gov) data: [PACE Yourself for Faster Science: Accessing PACE Land Products with NASA Earthdata’s AppEEARS](https://www.earthdata.nasa.gov/events/pace-yourself-faster-science-accessing-pace-land-products-nasa-earthdatas-appeears). A recording of the webinar is available at: https://www.youtube.com/watch?v=U66w3XX-xKI.
 
