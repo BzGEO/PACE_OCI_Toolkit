@@ -10,7 +10,7 @@
 
 ## Updates: 24.09.2026
 1. Yesterday (23.09.2026), there was a [NASA EarthData](https://www.earthdata.nasa.gov) webinar on the use of [AppEEARS](https://appeears.earthdatacloud.nasa.gov) to process [PACE](https://pace.gsfc.nasa.gov) data: [PACE Yourself for Faster Science: Accessing PACE Land Products with NASA Earthdata’s AppEEARS](https://www.earthdata.nasa.gov/events/pace-yourself-faster-science-accessing-pace-land-products-nasa-earthdatas-appeears). A recording of the webinar is available at: https://www.youtube.com/watch?v=U66w3XX-xKI.
-2. Are you interested in hearing more about PACE-related happenings? The summer 2026 PACE Community Newsletter was just released: https://pace.oceansciences.org/newsletter/Summer2026.html.
+2. Are you interested in hearing more about PACE-related happenings? The **summer 2026 PACE Community Newsletter** was just released: https://pace.oceansciences.org/newsletter/Summer2026.html.
 
 
 
