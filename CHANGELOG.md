@@ -15,7 +15,7 @@
 <img width="571" height="691" alt="image" src="https://github.com/user-attachments/assets/0ebea513-c7ba-4e01-8da1-3b0a97c8cb02" />
 
 ## Updates: 23.09.2026
-1. To read (i.e., recommended article): Wang et al. (2020)'s [Foliar functional traits from imaging spectroscopy across biomes in eastern North America](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.16711) in ***New Phytologist***.
+1. To read (i.e., *recommended article*): Wang et al. (2020)'s [Foliar functional traits from imaging spectroscopy across biomes in eastern North America](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.16711) in ***New Phytologist***.
 
 ## Updates: 10.09.2026
 1. Today is the second day of the [EMIT](https://earth.jpl.nasa.gov/emit/) Science and Applications Technical Interchange Meeting (TIM). The previous TIM - albeit for the NASA [Surface Biology & Geology (SBG)](https://science.nasa.gov/earth-science/decadal-surveys/decadal-sbg/) meeting - was held in May 2025. In addition to a focus on EMIT, various presentations have also highlighted the importance and usefulness of the [PACE](https://pace.gsfc.nasa.gov/) mission. The agenda for the TIM is available as a [Google Sheet](https://docs.google.com/spreadsheets/d/1mIHfiR1_NiciH2QIAIZl8iFd70u50Jzf/edit?gid=1688444562#gid=1688444562).
