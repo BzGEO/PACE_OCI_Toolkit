@@ -11,6 +11,9 @@
 ## Updates: 24.09.2026
 1. Yesterday (23.09.2026), there was a [NASA EarthData](https://www.earthdata.nasa.gov) webinar on the use of [AppEEARS](https://appeears.earthdatacloud.nasa.gov) to process [PACE](https://pace.gsfc.nasa.gov) data: [PACE Yourself for Faster Science: Accessing PACE Land Products with NASA Earthdata’s AppEEARS](https://www.earthdata.nasa.gov/events/pace-yourself-faster-science-accessing-pace-land-products-nasa-earthdatas-appeears). A recording of the webinar is available at: https://www.youtube.com/watch?v=U66w3XX-xKI.
 
+## Updates: 23.09.2026
+1. To read (i.e., recommended article): Wang et al. (2020)'s [Foliar functional traits from imaging spectroscopy across biomes in eastern North America](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.16711) in *New Phytologist*.
+
 ## Updates: 10.09.2026
 1. Today is the second day of the [EMIT](https://earth.jpl.nasa.gov/emit/) Science and Applications Technical Interchange Meeting (TIM). The previous TIM - albeit for the NASA [Surface Biology & Geology (SBG)](https://science.nasa.gov/earth-science/decadal-surveys/decadal-sbg/) meeting - was held in May 2025. In addition to a focus on EMIT, various presentations have also highlighted the importance and usefulness of the [PACE](https://pace.gsfc.nasa.gov/) mission. The agenda for the TIM is available as a [Google Sheet](https://docs.google.com/spreadsheets/d/1mIHfiR1_NiciH2QIAIZl8iFd70u50Jzf/edit?gid=1688444562#gid=1688444562).
 
