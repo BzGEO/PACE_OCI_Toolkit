@@ -5,7 +5,7 @@
 
 ## Updates: 01.10.2026
 1. In July 2026, the U.S. Geological Survey (USGS) published an **evaluation of Planet's Tanager-1 hyperspectral satellite**: [**System Characterization Report on Tanager**](https://pubs.usgs.gov/of/2021/1030/w/ofr20211030W.pdf). A short executive summary of the report is also available at: https://pubs.usgs.gov/publication/ofr20211030W.
-2. A few weeks ago, Planet Labs posted an article about the evaluation: https://www.planet.com/pulse/independent-evaluation-of-tanager-s-on-orbit-performance/.
+2. A few weeks ago, *Planet Labs* posted an article about the evaluation: https://www.planet.com/pulse/independent-evaluation-of-tanager-s-on-orbit-performance/.
 
 ## Updates: 26.09.2026
 1. In a few weeks, on Thu. 15th October 2026, the manager of this repo will be presenting on the PACE OCI Toolkit at an event organized by the Google Developer Group (GDG) chapter at Yale University. For additional details, see: https://gdg.community.dev/events/details/google-gdg-on-campus-yale-university-new-haven-united-states-presents-google-earth-engine-from-satellite-data-to-insights/.
