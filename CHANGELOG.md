@@ -4,7 +4,7 @@
 ~~**Note:** The status of PACE OCI LandVI [*and now the Chlorophyll-a*] updates can be tracked using the following [calendar](https://bit.ly/pace_oci_8d_cal).~~
 
 ## Updates: 01.10.2026
-1. In July 2026, the U.S. Geological Survey (USGS) published an evaluation of Planet's Tanager-1 hyperspectral satellite: https://pubs.usgs.gov/of/2021/1030/w/ofr20211030W.pdf.
+1. In July 2026, the U.S. Geological Survey (USGS) published an **evaluation of Planet's Tanager-1 hyperspectral satellite**: https://pubs.usgs.gov/of/2021/1030/w/ofr20211030W.pdf.
 
 ## Updates: 26.09.2026
 1. In a few weeks, on Thu. 15th October 2026, the manager of this repo will be presenting on the PACE OCI Toolkit at an event organized by the Google Developer Group (GDG) chapter at Yale University. For additional details, see: https://gdg.community.dev/events/details/google-gdg-on-campus-yale-university-new-haven-united-states-presents-google-earth-engine-from-satellite-data-to-insights/.
