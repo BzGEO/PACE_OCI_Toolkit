@@ -4,7 +4,7 @@
 ~~**Note:** The status of PACE OCI LandVI [*and now the Chlorophyll-a*] updates can be tracked using the following [calendar](https://bit.ly/pace_oci_8d_cal).~~
 
 ## Updates: 04.10.2026
-1. To do: Integrate the May, June, July monthly composites for LandVI and surface reflectance into the GEE code (long overdue).
+1. To do: Integrate the May, June, July 2026 monthly composites for LandVI and surface reflectance into the GEE code (long overdue). The August 2026 data are still pending, and September 2026 data may not become available for a while.
 
 ## Updates: 01.10.2026
 1. In July 2026, the U.S. Geological Survey (USGS) published an **evaluation of Planet's Tanager-1 hyperspectral satellite**: [**System Characterization Report on Tanager**](https://pubs.usgs.gov/of/2021/1030/w/ofr20211030W.pdf). A short executive summary of the report is also available at: https://pubs.usgs.gov/publication/ofr20211030W.
