@@ -4,9 +4,11 @@
 ~~**Note:** The status of PACE OCI LandVI [*and now the Chlorophyll-a*] updates can be tracked using the following [calendar](https://bit.ly/pace_oci_8d_cal).~~
 
 ## Updates: 06.10.2026
-1. The August 2026 LandVI and surface reflectance monthly composites are still not available for download. However, the 8D data are updated through the 21-28 August 2026 period.
+1. The August 2026 LandVI and surface reflectance monthly composites are still not available for download. However, the 8-day data are updated through the **21-28 August 2026** period.
 
 <img width="2362" height="1245" alt="image" src="https://github.com/user-attachments/assets/5774406d-a255-4f41-997a-72c23ea71c75" />
+
+<img width="2365" height="1110" alt="image" src="https://github.com/user-attachments/assets/fe664442-a95e-43d0-8664-c236897d7f22" />
 
 ## Updates: 04.10.2026
 1. To do: Integrate the May, June, July 2026 monthly composites for LandVI and surface reflectance into the GEE code (long overdue). The August 2026 data are still pending, and September 2026 data may not become available for a while.
