@@ -3,10 +3,12 @@
 
 ~~**Note:** The status of PACE OCI LandVI [*and now the Chlorophyll-a*] updates can be tracked using the following [calendar](https://bit.ly/pace_oci_8d_cal).~~
 
+## Updates: 12.10.2026
+1. The corresponding ATBD for the **land vegetation indices (LandVI)** products was last updated in April 2025 and is available at: https://oceandata.sci.gsfc.nasa.gov/files/atbd/atbd-obdaac-vegetation-indices.pdf.
+2. The August 2026 **LandVI** and **surface reflectance** monthly composites are now available for download (*screenshot below*). I will acquire them, process them, and upload them to GEE.
+
 ## Updates: 11.10.2026
-1. ICYMI, the **Algorithm Theoretical Basis Document (ATBD)** for the **SFREFL** product - last updated in June 2026 - is available at: https://oceandata.sci.gsfc.nasa.gov/files/atbd/atbd-obdaac-surface-reflectance.pdf.
-2. The corresponding ATBD for the **land vegetation indices (LandVI)** products was last updated in April 2025 and is available at: https://oceandata.sci.gsfc.nasa.gov/files/atbd/atbd-obdaac-vegetation-indices.pdf.
-3. The August 2026 **LandVI** and **surface reflectance** monthly composites are now available for download (*screenshot below*). I will acquire them, process them, and upload them to GEE.
+1. ICYMI, the **Algorithm Theoretical Basis Document (ATBD)** for the **SFREFL** product - *last updated in June 2026* - is available at: https://oceandata.sci.gsfc.nasa.gov/files/atbd/atbd-obdaac-surface-reflectance.pdf.
 
 <img width="872" height="190" alt="image" src="https://github.com/user-attachments/assets/6cd7fe95-3022-4ce9-8b58-bdba2deabc27" />
 
