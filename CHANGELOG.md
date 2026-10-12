@@ -3,6 +3,9 @@
 
 ~~**Note:** The status of PACE OCI LandVI [*and now the Chlorophyll-a*] updates can be tracked using the following [calendar](https://bit.ly/pace_oci_8d_cal).~~
 
+## Updates: 11.10.2026
+1. The August 2026 2026 LandVI and surface reflectance monthly composites are now available for download. I will acquire them, process them, and upload them to GEE.
+
 ## Updates: 08.10.2026
 1. ~~I am delayed on integrating the May, June, and July 2026 LandVI and surface reflectance data into the Toolkit's GEE code (specifically, the package that has the references to all of the datasets), but I need to do so shortly, especially in time for next week's Yale GDG event.~~ Update: The May, June, and July 2026 PACE OCI **LandVI** and **surface reflectance** data have now been integrated into the PACE OCI Toolkit's [reference data package](https://code.earthengine.google.com/?scriptPath=users%2Fbzgeo%2Fhyperspectral_toolkit%3A00_pkg%2Fref_data_pace_oci.js).
 
