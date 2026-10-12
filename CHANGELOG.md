@@ -4,9 +4,11 @@
 ~~**Note:** The status of PACE OCI LandVI [*and now the Chlorophyll-a*] updates can be tracked using the following [calendar](https://bit.ly/pace_oci_8d_cal).~~
 
 ## Updates: 11.10.2026
-1. The August 2026 2026 LandVI and surface reflectance monthly composites are now available for download. I will acquire them, process them, and upload them to GEE.
-2. ICYMI, the **Algorithm Theoretical Basis Document (ATBD)** for the **SFREFL** product - last updated in June 2026 - is available at: https://oceandata.sci.gsfc.nasa.gov/files/atbd/atbd-obdaac-surface-reflectance.pdf.
-3. The corresponding ATBD for the **land vegetation indices (LandVI)** products was last updated in April 2025 and is available at: https://oceandata.sci.gsfc.nasa.gov/files/atbd/atbd-obdaac-vegetation-indices.pdf.
+1. ICYMI, the **Algorithm Theoretical Basis Document (ATBD)** for the **SFREFL** product - last updated in June 2026 - is available at: https://oceandata.sci.gsfc.nasa.gov/files/atbd/atbd-obdaac-surface-reflectance.pdf.
+2. The corresponding ATBD for the **land vegetation indices (LandVI)** products was last updated in April 2025 and is available at: https://oceandata.sci.gsfc.nasa.gov/files/atbd/atbd-obdaac-vegetation-indices.pdf.
+3. The August 2026 2026 LandVI and surface reflectance monthly composites are now available for download. I will acquire them, process them, and upload them to GEE.
+
+<img width="872" height="190" alt="image" src="https://github.com/user-attachments/assets/6cd7fe95-3022-4ce9-8b58-bdba2deabc27" />
 
 ## Updates: 08.10.2026
 1. ~~I am delayed on integrating the May, June, and July 2026 LandVI and surface reflectance data into the Toolkit's GEE code (specifically, the package that has the references to all of the datasets), but I need to do so shortly, especially in time for next week's Yale GDG event.~~ Update: The May, June, and July 2026 PACE OCI **LandVI** and **surface reflectance** data have now been integrated into the PACE OCI Toolkit's [reference data package](https://code.earthengine.google.com/?scriptPath=users%2Fbzgeo%2Fhyperspectral_toolkit%3A00_pkg%2Fref_data_pace_oci.js).
