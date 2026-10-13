@@ -11,7 +11,7 @@
 2. The corresponding ATBD for the **land vegetation indices (LandVI)** products was last updated in April 2025 and is available at: https://oceandata.sci.gsfc.nasa.gov/files/atbd/atbd-obdaac-vegetation-indices.pdf. 
 
 ## Updates: 11.10.2026
-1. The August 2026 **LandVI** and **surface reflectance** monthly composites are now available for download (*screenshot below*). I will acquire them, process them, and upload them to GEE.
+1. The August 2026 **LandVI** and **surface reflectance** monthly composites are now available for download (*screenshot below*). ~~I will acquire them, process them, and upload them to GEE.~~
 
 <img width="872" height="190" alt="image" src="https://github.com/user-attachments/assets/6cd7fe95-3022-4ce9-8b58-bdba2deabc27" />
 
