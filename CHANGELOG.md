@@ -3,6 +3,9 @@
 
 ~~**Note:** The status of PACE OCI LandVI [*and now the Chlorophyll-a*] updates can be tracked using the following [calendar](https://bit.ly/pace_oci_8d_cal).~~
 
+## Updates: 16.10.2026
+1. Following the NASA OB.DAAC User Working Group meeting that occurred today, I *plan* to re-integrate the RRS data into the PACE OCI Toolkit's GEE asset space (i.e., get the RRS data for February 2026 to August 2026 into GEE).
+
 ## Updates: 13.10.2026
 1. The August 2026 **LandVI** and **surface reflectance** monthly composites have now been integrated into GEE. ✅
 
