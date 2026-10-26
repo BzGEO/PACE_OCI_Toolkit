@@ -3,6 +3,11 @@
 
 ~~**Note:** The status of PACE OCI LandVI [*and now the Chlorophyll-a*] updates can be tracked using the following [calendar](https://bit.ly/pace_oci_8d_cal).~~
 
+## Updates: 25.10.2026
+1. There will be a free PACE webinar hosted as an AmeriGEO Week 2026 pre-event, on Friday **6 Nov. 2026**. The registration link for the pre-event is: https://bit.ly/amerigeo_week_2026_nasa_webinars.
+
+<img width="410" height="524" alt="image" src="https://github.com/user-attachments/assets/c2c3c4c0-385c-4d30-b6be-fd91db4de042" />
+
 ## Updates: 16.10.2026
 1. Following the NASA OB.DAAC User Working Group meeting that occurred today (16th October), I *plan* to re-integrate the RRS data into the PACE OCI Toolkit's GEE asset space (i.e., get the RRS data for February 2026 to August 2026 into GEE). The RRS data has been integrated into the *Apparent Optical Properties* (AOP) product suite since early 2026.
 
