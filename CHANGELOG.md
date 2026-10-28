@@ -4,7 +4,7 @@
 ~~**Note:** The status of PACE OCI LandVI [*and now the Chlorophyll-a*] updates can be tracked using the following [calendar](https://bit.ly/pace_oci_8d_cal).~~
 
 ## Updates: 28.10.2026
-1. ORNL recently (last week) released a set of Jupyter Notebooks for working with the [AVIRIS](https://aviris.jpl.nasa.gov) data over central Panama, acquired during the **AVUELO** mision of Feb. 2025:
+1. ORNL recently (last week) released a set of Jupyter Notebooks for working with the [AVIRIS](https://aviris.jpl.nasa.gov) data over central Panama, acquired during the [**AVUELO**](https://science.gsfc.nasa.gov/sci/projects/668/) mision of Feb. 2025:
    * [**Search and Subscribe to AVUELO Datasets**](https://ornldaac.github.io/airborne/notebooks/avuelo/avuelo-1-search-subscribe/)
    * [**Search and Download AVIRIS-3 Granules for a Study Area**](https://ornldaac.github.io/airborne/notebooks/avuelo/avuelo-2-search-download-granules-1/)
    * [**Extract Quality Spectra of Tree Crowns from AVIRIS-3 Reflectance**](https://ornldaac.github.io/airborne/notebooks/avuelo/avuelo-3-av3-crown-spectra-1/)
