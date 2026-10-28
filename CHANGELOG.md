@@ -4,7 +4,7 @@
 ~~**Note:** The status of PACE OCI LandVI [*and now the Chlorophyll-a*] updates can be tracked using the following [calendar](https://bit.ly/pace_oci_8d_cal).~~
 
 ## Updates: 28.10.2026
-1. Per the update from 16.10.2026 below regarding the PACE OCI *Apparent Optical Properties* (AOP) v3.2 product suite data, the following show the structure of that data (*when sample AOP data are opened in NASA's SeaDAS platform*):
+1. Per the update from 16.10.2026 below regarding the PACE OCI [*Apparent Optical Properties* (AOP)](https://www.earthdata.nasa.gov/data/catalog/ob-cloud-pace-oci-l2-aop-3.2) v3.2 product suite data, the following show the structure of that data (*when sample AOP data are opened in NASA's SeaDAS platform*):
 
 <img width="368" height="188" alt="image" src="https://github.com/user-attachments/assets/9b2b56f3-f9d3-4410-8c54-052d92604e50" />
 
