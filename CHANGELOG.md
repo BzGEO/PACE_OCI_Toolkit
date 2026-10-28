@@ -3,6 +3,13 @@
 
 ~~**Note:** The status of PACE OCI LandVI [*and now the Chlorophyll-a*] updates can be tracked using the following [calendar](https://bit.ly/pace_oci_8d_cal).~~
 
+## Updates: 28.10.2026
+1. Per the update from 16.10.2026 below regarding the PACE OCI *Apparent Optical Properties* (AOP) v3.2 product suite data, the following show the structure of that data (*when sample AOP data are opened in NASA's SeaDAS platform*):
+
+<img width="368" height="188" alt="image" src="https://github.com/user-attachments/assets/9b2b56f3-f9d3-4410-8c54-052d92604e50" />
+
+<img width="1912" height="1010" alt="image" src="https://github.com/user-attachments/assets/7be35b0d-5893-417d-acd2-3e014f6ae2d2" />
+
 ## Updates: 25.10.2026
 1. There will be a free PACE webinar hosted as an AmeriGEO Week 2026 pre-event, on Friday **6 Nov. 2026**. The registration link for the pre-event is: https://bit.ly/amerigeo_week_2026_nasa_webinars.
 
