@@ -6,7 +6,7 @@
 ## Updates: 03.11.2026
 1. We are still waiting for the September 2026 - and soon the October 2026 - monthly LandVI and SFREFL composites to be posted to the OB.DAAC.
 
-
+<img width="1184" height="319" alt="image" src="https://github.com/user-attachments/assets/34fc0074-8b14-4294-a4f2-9d674be713c7" />
 
 ## Updates: 28.10.2026
 1. ORNL recently (last week) released a set of Jupyter Notebooks for working with the [AVIRIS-3](https://aviris.jpl.nasa.gov) [data](https://search.earthdata.nasa.gov/search/granules?p=C3906206748-ORNL_CLOUD&pg[0][v]=f&pg[0][id]=*RFL_ORT*&pg[0][gsk]=-start_date&g=G3906843651-ORNL_CLOUD&sb[0]=-79.85367%2C9.15163%2C-79.82898%2C9.16723&fpj=AVUELO&lat=9.138345000000001&long=-79.86101758861439&zoom=14.550767447114291) over central Panama, acquired during the [**AVUELO**](https://science.gsfc.nasa.gov/sci/projects/668/) mision of Feb. 2025:
