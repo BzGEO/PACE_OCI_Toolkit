@@ -8,7 +8,7 @@
 1. Today (6 Nov. 2026), along w/ Morgaine McKibben (PACE Mission Applications Lead) and Skye Caplan (PACE Terrestrial Product lead) of NASA Goddard Space Flight Center, we are supporting a **pre-AmeriGEO Week 2026 [webinar](https://nasaevents.webex.com/webappng/sites/nasaevents/webinar/webinarSeries/register/3f487a83068147c8a71b30b57b1610a3) on PACE**. The webinar is being recorded and should be posted publicly later.
 
 > [!TIP]
-> If you are attending the webinar and need information on registering for GEE / registering your cloud project, see: https://github.com/BzGEO/GEE_resources.
+> If you are attending the webinar and need information on registering for GEE / registering your cloud project, see: https://github.com/BzGEO/GEE_resources. To add the repo to your GEE account: [bit.ly/gee_repo_pace_oci](https://bit.ly/gee_repo_pace_oci).
 
 <img width="619" height="779" alt="image" src="https://github.com/user-attachments/assets/4283a02b-c8f3-4877-b01a-2a6321e6f7f7" />
 
