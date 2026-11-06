@@ -12,6 +12,8 @@
 
 <img width="619" height="779" alt="image" src="https://github.com/user-attachments/assets/4283a02b-c8f3-4877-b01a-2a6321e6f7f7" />
 
+2. Regarding the previous update ⬇️ regarding the delay on the availability of the Sept. 2026 PACE OCI composites (LandVI, SFREFL), Alicia Scott from NASA Goddard shared the following, which allows for monitoring the status of the PACE OCI products: https://oceandata.sci.gsfc.nasa.gov/processing_monitor/.
+
 ## Updates: 03.11.2026
 1. We are still waiting for the September 2026 - and soon the October 2026 - monthly LandVI and SFREFL composites to be posted to the OB.DAAC.
 
