@@ -3,6 +3,12 @@
 
 ~~**Note:** The status of PACE OCI LandVI [*and now the Chlorophyll-a*] updates can be tracked using the following [calendar](https://bit.ly/pace_oci_8d_cal).~~
 
+## Updates: 06.11.2026
+
+1. Today (6 Nov. 2026), along w/ Morgaine McKibben (PACE Mission Applications Lead) and Skye Caplan (PACE Terrestrial Product lead) of NASA Goddard Space Flight Center, we are supporting a pre-AmeriGEO Week 2026 webinar on PACE. The webinar is being recorded and should be posted publicly later.
+
+<img width="619" height="779" alt="image" src="https://github.com/user-attachments/assets/4283a02b-c8f3-4877-b01a-2a6321e6f7f7" />
+
 ## Updates: 03.11.2026
 1. We are still waiting for the September 2026 - and soon the October 2026 - monthly LandVI and SFREFL composites to be posted to the OB.DAAC.
 
