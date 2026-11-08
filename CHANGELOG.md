@@ -3,6 +3,9 @@
 
 ~~**Note:** The status of PACE OCI LandVI [*and now the Chlorophyll-a*] updates can be tracked using the following [calendar](https://bit.ly/pace_oci_8d_cal).~~
 
+## Updates: 07.11.2026
+1. Based on the pre-AmeriGEO Week webinar conducted yesterday, we realize that we need to make adjustments to the scripts in the PACE OCI Toolkit. That work is TBD.
+
 ## Updates: 06.11.2026
 
 1. Today (**6 Nov. 2026**), along w/ Morgaine McKibben (PACE Mission Applications Lead) and Skye Caplan (PACE Terrestrial Product lead) of NASA Goddard Space Flight Center, we are supporting a **pre-AmeriGEO Week 2026 [webinar](https://nasaevents.webex.com/webappng/sites/nasaevents/webinar/webinarSeries/register/3f487a83068147c8a71b30b57b1610a3) on PACE**. The webinar is being recorded and should be posted publicly later. (*You can also see the [recording](https://www.youtube.com/watch?v=nOXNXBQR3cw) of the PACE webinar from **AmeriGEO Week 2025**.*)
