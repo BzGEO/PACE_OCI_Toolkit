@@ -3,7 +3,7 @@
 
 ~~**Note:** The status of PACE OCI LandVI [*and now the Chlorophyll-a*] updates can be tracked using the following [calendar](https://bit.ly/pace_oci_8d_cal).~~
 
-## Updates: 07.11.2026
+## Updates: 07.11.2026. 
 1. Based on the pre-AmeriGEO Week webinar conducted yesterday, we realize that we need to make adjustments to the scripts in the PACE OCI Toolkit. That work is TBD.
 
 ## Updates: 06.11.2026
