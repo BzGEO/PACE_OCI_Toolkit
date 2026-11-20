@@ -4,7 +4,7 @@
 ~~**Note:** The status of PACE OCI LandVI [*and now the Chlorophyll-a*] updates can be tracked using the following [calendar](https://bit.ly/pace_oci_8d_cal).~~
 
 ## Updates: 19.11.2026
-1. The following is unrelated to the PACE OCI Toolkit, but while the daily PACE OCI data are up to date in the [NASA OB.DAAC L3/L4 Browser](https://oceandata.sci.gsfc.nasa.gov/l3/), in NASA WorldView, the last global composites available are from Sunday, 8 Nov. (https://go.nasa.gov/4AKUPJg), although there's a partial composite from 9 Nov.: https://go.nasa.gov/4zrlYQ3).
+1. The following is unrelated to the PACE OCI Toolkit, but while the daily PACE OCI data are up to date in the [NASA OB.DAAC L3/L4 Browser](https://oceandata.sci.gsfc.nasa.gov/l3/), in [NASA WorldView](https://worldview.earthdata.nasa.gov), the last global composites available are from Sunday, 8 Nov. (https://go.nasa.gov/4AKUPJg), although there's a partial composite from 9 Nov.: https://go.nasa.gov/4zrlYQ3).
 
 ## Updates: 07.11.2026
 1. Based on the pre-AmeriGEO Week webinar conducted yesterday, we realize that we need to make adjustments to the scripts in the PACE OCI Toolkit. That work is *still* TBD as of 18.11.2026.
